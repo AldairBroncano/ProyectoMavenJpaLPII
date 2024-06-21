@@ -43,6 +43,7 @@ Registrar Cliente
 <tr>
 <td colspan="2" style="text-align:center">
 <input type="submit"  value="Registrar">
+
 </td>
 </tr>
 </table>
